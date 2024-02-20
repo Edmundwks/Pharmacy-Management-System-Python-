@@ -1,0 +1,21 @@
+
+Steps To Run Code :
+1) Download all the files into a FOLDER at Desktop.
+2) Name that FOLDER "Pharmacy System"
+3) Open "Operation Code"
+4) Run
+5) Login using 
+ADMIN :
+username : MRV
+password : 123
+
+CUSTOMER :
+username : Edmund
+password : 123
+
+Files :
+1) account.txt = Data of user account
+2) medicine.txt = Data medicine available at pharmacy
+3) member.txt = 
+4) order.txt = Data of all pass transactions
+5) t.order.txt = Data of current order
