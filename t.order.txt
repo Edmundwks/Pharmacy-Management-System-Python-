@@ -1,0 +1,8 @@
+EDMUND
+Water:
+3
+
+Total price : 9
+Amount paid : 10.0
+Balance : 1.0
+---------------

@@ -1,0 +1,132 @@
+---------------
+WONG KANG SHIN
+Panadol:
+3
+
+Total price : 21Amount paid : 21.0
+Balance : 0.0
+---------------
+WONG KANG SHIN
+Glucosamine:
+3
+
+Total price : 39
+Amount paid : 70.0
+Balance : 31.0
+---------------
+WONG KANG SHIN
+Panadol:
+3
+
+Total price : 21
+Amount paid : 21.0
+Balance : 0.0
+---------------
+MRV
+Vitamin A:
+5
+
+Total price : 50
+Amount paid : 50.0
+Balance : 0.0
+---------------
+MRV
+Vitamin C:
+5
+
+Total price : 170
+Amount paid : 180.0
+Balance : 10.0
+---------------
+MRZ
+Panadol:
+3
+
+
+Iron:
+5
+
+Total price : 51
+Amount paid : 60.0
+Balance : 9.0
+---------------
+MRZ
+Glucosamine:
+1
+
+Total price : 13
+Amount paid : 13.0
+Balance : 0.0
+---------------
+VI
+Iron:
+3
+
+
+Vitamin Z:
+7
+
+
+Panadol:
+3
+
+Total price : 109
+Amount paid : 120.0
+Balance : 11.0
+---------------
+VI
+Vitamin C:
+2
+
+Total price : 68
+Amount paid : 70.0
+Balance : 2.0
+---------------
+J
+Panadol:
+4
+
+
+Iron:
+3
+
+Total price : 58
+Amount paid : 60.0
+Balance : 2.0
+---------------
+J
+Water:
+2
+
+Total price : 6
+Amount paid : 50.0
+Balance : 44.0
+---------------
+Orang
+Panadol:
+3
+
+
+Water:
+5
+
+Total price : 45
+Amount paid : 50.0
+Balance : 5.0
+---------------
+VIK
+Water:
+-20
+
+Total price : -60
+Amount paid : -22.0
+Balance : 38.0
+---------------
+EDMUND
+Water:
+3
+
+Total price : 9
+Amount paid : 10.0
+Balance : 1.0
+---------------

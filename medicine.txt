@@ -1,0 +1,26 @@
+Medicine Library: 
+
+Vitamin A
+For eyes
+10
+
+Glucosamine
+For replenishing Joint Gym
+13
+
+Panadol
+Pain killer
+5
+
+Water
+For hydration
+3
+
+Toner
+For skincare
+3
+
+Toothpaste
+For brushing teeth
+3
+
