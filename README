@@ -14,8 +14,7 @@ username : Edmund
 password : 123
 
 Files :
-1) account.txt = Data of user account
+1) member.txt = Data of user account
 2) medicine.txt = Data medicine available at pharmacy
-3) member.txt = 
-4) order.txt = Data of all pass transactions
-5) t.order.txt = Data of current order
+3) order.txt = Data of all pass transactions
+4) t.order.txt = Data of current order
