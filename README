@@ -13,7 +13,9 @@ CUSTOMER :
 username : Edmund
 password : 123
 
-Files :
+___________________
+
+Files Usage :
 1) member.txt = Data of user account
 2) medicine.txt = Data medicine available at pharmacy
 3) order.txt = Data of all pass transactions
